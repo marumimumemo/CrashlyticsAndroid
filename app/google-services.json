@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "12542112057",
+    "firebase_url": "https://crashlyticssample-5b08f.firebaseio.com",
+    "project_id": "crashlyticssample-5b08f",
+    "storage_bucket": "crashlyticssample-5b08f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12542112057:android:333aaac793e57252d278e8",
+        "android_client_info": {
+          "package_name": "com.example.crashlyticsandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12542112057-282tr6n134mi6nq738qvcvlne2h4anko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4ac60U9NZelsURy6dj-hOg3iZmmN_E7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12542112057-282tr6n134mi6nq738qvcvlne2h4anko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "12542112057-qit0t4e228okm5t1aqcdvolvtvd111kg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "satoshi.marumoto.CrashlyticsSample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
