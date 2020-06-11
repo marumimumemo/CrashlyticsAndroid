@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
         Bundle params = new Bundle();
         params.putString("test", "test");
-        mFirebaseAnalytics.logEvent("share_image", null);
+        mFirebaseAnalytics.logEvent(AnalyticsLogEnum.delete_image.getText(), null);
 
         CrashlyticsLog.setCrashCardID("111");
         CrashlyticsLog.setCrashEmpID("112");
